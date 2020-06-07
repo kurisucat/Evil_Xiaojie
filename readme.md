@@ -65,6 +65,7 @@ Kurisu 在通过讨论群内还在内测群的群友提醒后选择与小杰进�
 最后， Kurisu 选择了放弃交涉。
 
 关于 Kurisu 和小杰之间的聊天记录，您可以阅读由当事人 Kurisu 编写的 《[给官方:关于“小杰”办事。.pdf](https://github.com/MisaLiu/Evil_Xiaojie/blob/master/Files/%E7%BB%99%E5%AE%98%E6%96%B9%EF%BC%9A%E5%85%B3%E4%BA%8E%E2%80%9C%E5%B0%8F%E6%9D%B0%E2%80%9D%E5%8A%9E%E4%BA%8B%E3%80%82.pdf)》。
+目前此文档的石墨文档在线版本已被举报，无法阅读。
 
 ---
 
