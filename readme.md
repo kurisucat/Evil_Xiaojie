@@ -1,18 +1,10 @@
 [点击这里](https://github.com/MisaLiu/Evil_Xiaojie)进入我们的项目仓库以获取更多证据
 
+本页面持续更新中。
+
 据说小杰要报警，我在此声明，不会撤销所有文件。
 
 如果您对任何文件有异议，我再次强调，欢迎您提is。
-
----
-
-本页面持续更新中。
-
-我们仍然确信，只要拿到了足够的证据，就能打败小杰。
-
-我们希望小杰能和魏雷一个结局。
-
-有关魏雷是谁以及魏雷的结局，您可以进入我参与过的另一个工程[How_To_Fxxk_Weilei_s_Server](https://github.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server)
 
 ---
 
@@ -102,3 +94,14 @@ Misa 在发现此消息后迅速与该用户交涉，撤回了相关信息。
 至此，我们与小杰的战争正式打响。
 
 ---
+
+## 后记
+
+本页面持续更新中。
+
+我们仍然确信，只要拿到了足够的证据，就能打败小杰。
+
+我们希望小杰能和魏雷一个结局。
+
+有关魏雷是谁以及魏雷的结局，您可以进入我参与过的另一个工程：[How_To_Fxxk_Weilei_s_Server](https://github.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server)
+
