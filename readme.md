@@ -77,8 +77,9 @@ Kurisu 在通过讨论群内还在内测群的群友提醒后选择与小杰进�
 
 Kurisu 表示，在 2020 年 3 月至 6 月（时间可能更新不够及时）以来并 Kurisu 没有放弃交涉（以间接或直接的向小米小爱老师官方人员反馈），由于学业原因而没有时间来频繁地处理这件事情。
 
-关于 Kurisu 和小杰之间的聊天记录，您可以阅读由当事人 Kurisu 编写的 《[给官方:关于“小杰”办事。.pdf](https://github.com/MisaLiu/Evil_Xiaojie/blob/master/Files/%E7%BB%99%E5%AE%98%E6%96%B9%EF%BC%9A%E5%85%B3%E4%BA%8E%E2%80%9C%E5%B0%8F%E6%9D%B0%E2%80%9D%E5%8A%9E%E4%BA%8B%E3%80%82.pdf)》。
-目前此文档的石墨文档在线版本已被举报，无法阅读。
+关于 Kurisu 和小杰之间的聊天记录，您可以阅读由当事人 Kurisu 编写的 《[给官方:关于“小杰”办事。.pdf](https://victoriaca-my.sharepoint.com/:w:/g/personal/shisheng233_ncov_office_gy/EV42G1qLXnBFpfFu4w7_qKoB7bIjuicznfvYUm8yAa3H_A?rtime=vpKjp-At2Eg)》。
+
+鸣谢：由 *ShiSheng233* 提供的 Microsoft Office 365 在线文档链接，现在您可以直接点击查看。
 
 ---
 
