@@ -110,7 +110,7 @@ whois 反查的结果是两个域名分别由两个人注册， mikeo.cn 由 xuh
 
 又是新料。
 
-在六月下旬的时候，小杰方人员 *Evil-Misa-Liu（该账号已被删除）* 发布了仓库 [Evil-Misa-Liu](https://github.com/MisaLiu/Virtuous-Misa-Liu)（这个仓库因账号被删除而转到我的名下，然后我修改了一点东西，标题已经不是 Evil-Misa-Liu 了，现在是 Virtuous-Misa-Liu 。）
+在六月下旬的时候，小杰方人员 *Evil-Misa-Liu（该账号已被删除）* 发布了仓库 [Evil-Misa-Liu](https://github.com/MisaLiu/Virtuous-Misa-Liu)（这个仓库莫名其妙被转到我的名下，然后我修改了一点东西，标题已经不是 Evil-Misa-Liu 了，现在是 Virtuous-Misa-Liu 。）
 
 然后因为全员中考，没有几个人发现这个仓库，直到7月19号才逐渐被发现。
 
