@@ -118,7 +118,7 @@ Misa 在发现此消息后迅速与该用户交涉，撤回了相关信息。
 
 因为此事并不属于我们与小杰的冲突，故此不会直接展示在此页面。
 
-您可以[点击这里](https://github.com/MisaLiu/Evil_Xiaojie/tree/master/Xiaojie_BlackHistory)阅读。
+您可以[点击这里](Xiaojie_BlackHistory)阅读。
 
 ---
 
