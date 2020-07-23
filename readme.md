@@ -118,7 +118,7 @@ Misa 在发现此消息后迅速与该用户交涉，撤回了相关信息。
 
 因为此事并不属于我们与小杰的冲突，故此不会直接展示在此页面。
 
-您可以[点击这里](Xiaojie_BlackHistory/readme.md)阅读。
+您可以[点击这里](Xiaojie_BlackHistory)阅读。
 
 ---
 
@@ -133,4 +133,3 @@ Misa 在发现此消息后迅速与该用户交涉，撤回了相关信息。
 我们希望小杰能和魏雷一个结局。
 
 有关魏雷是谁以及魏雷的结局，您可以进入我参与过的另一个工程：[How_To_Fxxk_Weilei_s_Server](https://github.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server)
-
